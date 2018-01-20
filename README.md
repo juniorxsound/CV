@@ -1,6 +1,14 @@
-# Or Fleisher
+1. [Info](#info)
+1. [Short Bio](#short-bio)
+1. [Work History](#work-history)
+1. [Education](#education)
+1. [Skills](#skills)
+1. [Press](#press)
+1. [Awards](#awards)
 
 ### Info:
+
+name: Or Fleisher
 
 phone: 347-339-9440
 
