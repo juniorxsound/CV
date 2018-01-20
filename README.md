@@ -6,6 +6,8 @@
 1. [Press](#press)
 1. [Awards](#awards)
 
+---
+
 ### Info:
 
 name: Or Fleisher
