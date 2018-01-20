@@ -48,6 +48,7 @@ Graduated from Future Rhythm, certified Avid training facility. through the cour
 - **Video:** Adobe Premiere, Avid MC, Adobe AfterEffects, Nuke
 - **3D:** Blender, Octane Renderer, Vue
 - **Misc:** Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine Learning (tensorflow, CoreML), PCB design, electronics, open-source software development
+
 ---
 ### Press:
 - **Wired** - [Death Mask](https://www.wired.it/attualita/tech/2017/12/20/death-mask-realta-morte-previsione/)
