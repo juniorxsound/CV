@@ -37,6 +37,7 @@ As a recording engineer, I was in charge of preparing, tracking and pre-mixing a
 
 - **Avid Expert Certificates** - *Future Rhythm, San Jose, CA* (2010)
 Graduated from Future Rhythm, certified Avid training facility. through the course of my studies I learned Avid’s Pro Tools™ HD Expert Curriculum in both music (310M) and post-production (310P)
+
 ---
 ### Skills:
 - **Languages:** Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
