@@ -1,10 +1,15 @@
 # Or Fleisher
 
 ### Info:
+
 phone: 347-339-9440
+
 mail: [contact@orfleisher.com](mailto:contact@orfleisher.com)
+
 portfolio: [orfleisher.com](http://orfleisher.com)
+
 [Github](https://github.com/juniorxsound) | [Twitter](https://twitter.com/juniorxsound) | [YouTube](https://www.youtube.com/user/JuniorxSound/) | [LinkedIn](https://www.linkedin.com/in/orfleisher/)
+
 ---
 ### Short bio:
 Based in NYC, I am a director, developer and artist working at the intersection of technology and storytelling. My interests include computer graphics, web development and immersive experience design in virtual, augmented and mixed realities.
