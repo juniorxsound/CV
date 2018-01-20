@@ -88,8 +88,8 @@ Graduated from Future Rhythm, certified Avid training facility. through the cour
 - **Communication Arts - Webpicks** - *Livyatanim: MYTH*
 - **Awwwards – Honorable Mention** - *Tzina*
 - **CSS Design Awards - Special Kodus** - *Tzina*
-- **Tisch School of the Arts grant**
-- **Red Burns grant**
+- **Tisch School of the Arts scholarship**
+- **Red Burns scholarship**
 - **Viacom NEXT VR research fellowship**
 - **ITP & Google XStory rersearch grant**
 
