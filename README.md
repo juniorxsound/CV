@@ -63,6 +63,7 @@ Graduated from Future Rhythm, certified Avid training facility. through the cour
 - **Creators Project** - [Tzina](https://creators.vice.com/en_us/article/mg44g4/symphony-of-longing-interactive-vr-doc-tel-aviv)
 - **Ha'aretz** - [Tzina](https://www.haaretz.co.il/gallery/cinema/.premium-1.4083991)
 - **Calcalist** - [Tzina](https://www.calcalist.co.il/consumer/articles/0,7340,L-3693396,00.html)
+
 ---
 ### Awards:
 
@@ -92,6 +93,7 @@ Graduated from Future Rhythm, certified Avid training facility. through the cour
 - **Patchlab** - [Livyatanim: MYTH](http://patchlab.pl/media-labdiscount-for-resolume/)
 - **Miami FILMGATE** - [Livyatanim: MYTH](http://www.filmgate.miami/fordistas-vr-pavilion/)
 - **Amsterdam KLIK** - [Livyatanim: MYTH](http://www.klik.amsterdam/festival/program-details/326)
+
 ---
 ### Workshops & talks:
 - **Making music with data** - *NYC Media Lab* (2017)
