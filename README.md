@@ -5,6 +5,7 @@
 1. [Skills](#skills)
 1. [Press](#press)
 1. [Awards](#awards)
+1. [Workshops](#workshops--talks)
 
 ---
 
