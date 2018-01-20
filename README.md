@@ -29,6 +29,7 @@ Scope of work included overseeing productions from specifications sheets to fina
 
 - **Recording Engineer** - *Savion Studios* (2006-2008)
 As a recording engineer, I was in charge of preparing, tracking and pre-mixing a wide array of musical genre recording sessions. Moreover, the scope of work included overseeing the rehearsal rooms operations and integration of new workers.
+
 ---
 ### Education:
 - **Master's - Interactive Telecommunications Program** - *New York University* (2016-2018)
