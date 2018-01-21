@@ -60,7 +60,8 @@ I am an advanced coffee drinker, cat aficionado and hobbyist musician. I am pass
 - **Future Rhythm** - *Expert Certification (2010)*
 
   Official Avid Expert Certificates in Pro Tools (310M, 310P)  
-  - Graduated from Future Rhythm, certified Avid training facility. through the course of my studies I learned Avid’s Pro     Tools™ HD Expert Curriculum in both music (310M) and post-production (310P)
+  - Graduated from Future Rhythm, a certified Avid training facility earning 310M and 310P expert certificates. 
+  - Avid’s Pro Tools™ HD expert curriculum in music production (310M) and post-production (310P)
 
 ---
 
