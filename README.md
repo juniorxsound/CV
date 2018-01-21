@@ -69,15 +69,23 @@ I am an advanced coffee drinker, cat aficionado and hobbyist musician. I am pass
 Professional portfolio: [orfleisher.com](http://orfleisher.com)
 
 - **VR Research Fellow** - *Viacom* (2017)
-Honored to have been selected as a research fellow in Viacom Next music and virtual reality fellowship, under which I designed, developed and created a WebVR experience.
+  - Designed and developed a web based Virtual Reality narrative experience currently in submission to festivals.
+  - Collabrated in weekly feedback sessions about look development and technical feedback.
+  - Presented the project in a private Virtual Reality showcase in Viacom's NY headquarters also covered by tech websites (e.g UploadVR).
 - **Co-Founder** - *Phenomena Labs* (2010-2016)
-Co-Founded Phenomena Labs VFX and interaction design studio with Ronen Tanchum and Guy Fleisher.
+  - Co-Founded an award winning (e.g D&AD pencil award) visual effects and interaction design studio with *Ronen Tanchum* and *Guy Fleisher*.
+  - Built, recruited teams and directed immersive experiences, more than 5 published Virtual Reality titles in Oculus, GearVR and WebVR app stores which were also covered by design and technology magazines (e.g Creators Project).
+  - Served as technical director for the development of multipule projects ranging from film, installations and immersive experiences.
+  - Built studio technical and creative infrastructure such as website, pipeline and storage tools and outsourcing network of professional personal.
 - **Sound Supervisor** - *Rishon Hall of Arts* (2009-2010)
-Scope of work included overseeing productions from specifications sheets to final show. I had the opportunity to mix and work on a wide array of art disciplines ranging from theatre to dance groups.
-
+  - Sound design and mixing of performance ranging from art installations and theatre to dance groups.
+  - Daily maintanance of gear and stocks.
+  - Specification sheet preperations and supervising incoming forign performances.
 - **Recording Engineer** - *Savion Studios* (2006-2008)
-As a recording engineer, I was in charge of preparing, tracking and pre-mixing a wide array of musical genre recording sessions. Moreover, the scope of work included overseeing the rehearsal rooms operations and integration of new workers.
-
+  - Preparing, tracking, editing and pre-mixing music recording sessions.
+  - Overseeing and operating the rehearsal spaces.
+  - Recruit and train new staff members.
+  
 ---
 
 ### Workshops & talks:
