@@ -111,9 +111,11 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 
 ### Skills:
 
-- A team player who strives for collabrative engagements.
-- A strong networking affinity with great personal and social skills.
-- High tenure under deadlines and ability to multitask and simplify creative and technical solutions.
+- A team player who strives for a collabrative work atmosphere.
+- A strong networking affinity, with great personal and social skills.
+- High tenure under deadlines with an ability to multitask and simplify problems while finding creative and technical solutions.
+- Ability to communicate simple and complex issues in a clear and concice way.
+
 
 
 
