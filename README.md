@@ -81,6 +81,26 @@ A roundtable about current possibilities in film-making, virtual reality and int
 During Anilouge Animation Festival I conducted a workshop in Budapest University's Interaction Design department about using MIDI in real-time to drive animations and visual effects in WebGL.
 
 ---
+
+
+### Skills:
+
+- Spoken Languages: English, Hebrew.
+- Team player who strives for a collabrative work atmosphere.
+- Strong networking affinity, with great personal and social skills.
+- High tenure under deadlines, with an ability to multitask and simplify problems, finding creative and technical solutions in variegated situations.
+- Ability to communicate simple and complex issues in a clear and concice way.
+
+
+### Technical skills:
+- Graphics programmer experienced with *WebGL*, *2D Canvas*, *OpenGL* and advanced *shader programming (GLSL, HLSL)*.
+- Extensive knowledge in *Virtual and Augmented Reality* content development (WebVR, WebAR, ARKit, Unity for Rift, Vive and GearVR).
+- Software: Unity, TouchDesigner, Nuke, Avid MC, Adobe Creative Cloud, Blender, Octane Renderer, Vue, Pro-Tools, Ableton Live, Max/MSP/Jitter.
+- Programming languages: Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
+- Further knowledge in Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine learning (tensorflow, CoreML), PCB design, electronics.
+
+---
+
 ### Awards:
 
 - **WorldFest- NASA Remi Award winner** - *Livyatanim: MYTH*
@@ -109,24 +129,6 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Patchlab** - [Livyatanim: MYTH](http://patchlab.pl/media-labdiscount-for-resolume/)
 - **Miami FILMGATE** - [Livyatanim: MYTH](http://www.filmgate.miami/fordistas-vr-pavilion/)
 - **Amsterdam KLIK** - [Livyatanim: MYTH](http://www.klik.amsterdam/festival/program-details/326)
-
----
-
-### Skills:
-
-- Spoken Languages: English, Hebrew.
-- Team player who strives for a collabrative work atmosphere.
-- Strong networking affinity, with great personal and social skills.
-- High tenure under deadlines, with an ability to multitask and simplify problems, finding creative and technical solutions in variegated situations.
-- Ability to communicate simple and complex issues in a clear and concice way.
-
-
-### Technical skills:
-- Graphics programmer experienced with *WebGL*, *2D Canvas*, *OpenGL* and advanced *shader programming (GLSL, HLSL)*.
-- Extensive knowledge in *Virtual and Augmented Reality* content development (WebVR, WebAR, ARKit, Unity for Rift, Vive and GearVR).
-- Software: Unity, TouchDesigner, Nuke, Avid MC, Adobe Creative Cloud, Blender, Octane Renderer, Vue, Pro-Tools, Ableton Live, Max/MSP/Jitter.
-- Programming languages: Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
-- Further knowledge in Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine learning (tensorflow, CoreML), PCB design, electronics.
 
 ---
 ### Press:
