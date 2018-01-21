@@ -1,6 +1,6 @@
-1. [Info](#info)
+1. [Personal information](#personal-information)
 1. [Short Bio](#short-bio)
-1. [Work History](#work-history)
+1. [Work experience](#work-experience)
 1. [Education](#education)
 1. [Skills](#skills)
 1. [Press](#press)
@@ -13,18 +13,18 @@
 
 Or Fleisher
 
-age: 28
+Age: 28
 
-address:
+Address:
 
 1991 Broadway, 
 Apt 7A, 
 New York, 10023, 
 NY
 
-phone: +1-347-339-9440
+Phone: +1-347-339-9440
 
-mail: [contact@orfleisher.com](mailto:contact@orfleisher.com)
+Mail: [contact@orfleisher.com](mailto:contact@orfleisher.com)
 
 [Github](https://github.com/juniorxsound) | [Twitter](https://twitter.com/juniorxsound) | [YouTube](https://www.youtube.com/user/JuniorxSound/) | [LinkedIn](https://www.linkedin.com/in/orfleisher/)
 
@@ -37,6 +37,17 @@ I started my career as a sound designer and musician. After working in audio pos
 Upon graudation, I co-founded [Phenomena Labs](http://phenomenalabs.com) an award winning visual effect and interaction design studio. I worked as a creative and technical director designing, developing and executing interactive experiences. Currently, I am a master's candadite at ITP, Tisch School of the Arts at New York University.
 
 ---
+
+### Education:
+- **Master's - Interactive Telecommunications Program** - *New York University* (2016-2018)
+
+- **Bachelor of Arts - Film** - *Tel Aviv University* (2011-2014)
+
+- **Avid Expert Certificates** - *Future Rhythm, San Jose, CA* (2010)
+Graduated from Future Rhythm, certified Avid training facility. through the course of my studies I learned Avid’s Pro Tools™ HD Expert Curriculum in both music (310M) and post-production (310P)
+
+---
+
 ### Work experience:
 
 Professional portfolio: [orfleisher.com](http://orfleisher.com)
@@ -53,15 +64,21 @@ As a recording engineer, I was in charge of preparing, tracking and pre-mixing a
 
 ---
 
-### Education:
-- **Master's - Interactive Telecommunications Program** - *New York University* (2016-2018)
+### Workshops & talks:
+- **Making music with data** - *NYC Media Lab* (2017)
+[This workshop](https://github.com/dodiku/music_with_data_workshop) was focused on creating generative music with Twitter data (Twitter API) using Node.js, Express and Web Audio API (Tone.js)
 
-- **Bachelor of Arts - Film** - *Tel Aviv University* (2011-2014)
+- **Volumetric capture using DepthKit** - *ITP Camp* (2016)
+This goal of this workshop was to learn *hands-on* how to use DepthKit's software (with a Kinect and a DSLR) to capture a human performance as a volumetric capture and to render it in Unity.
 
-- **Avid Expert Certificates** - *Future Rhythm, San Jose, CA* (2010)
-Graduated from Future Rhythm, certified Avid training facility. through the course of my studies I learned Avid’s Pro Tools™ HD Expert Curriculum in both music (310M) and post-production (310P)
+- **Interactive Film (roundtable)** - *Anilouge Animation Festival* (2015)
+A roundtable about current possibilities in film-making, virtual reality and interactive storytelling
+
+- **Animating with MIDI** - *Budapest University* (2015)
+During Anilouge Animation Festival I conducted a workshop in Budapest University's Interaction Design department about using MIDI in real-time to drive animations and visual effects in WebGL.
 
 ---
+
 ### Skills:
 - **Languages:** Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
 - **Graphics:** WebGL, OpenGL, GLSL, HLSL, Canvas (Vanila, Three.js, Unity, openFrameworks, Touch Designer, SceneKit, GLEW, GLFW)
@@ -116,17 +133,3 @@ Graduated from Future Rhythm, certified Avid training facility. through the cour
 - **Patchlab** - [Livyatanim: MYTH](http://patchlab.pl/media-labdiscount-for-resolume/)
 - **Miami FILMGATE** - [Livyatanim: MYTH](http://www.filmgate.miami/fordistas-vr-pavilion/)
 - **Amsterdam KLIK** - [Livyatanim: MYTH](http://www.klik.amsterdam/festival/program-details/326)
-
----
-### Workshops & talks:
-- **Making music with data** - *NYC Media Lab* (2017)
-[This workshop](https://github.com/dodiku/music_with_data_workshop) was focused on creating generative music with Twitter data (Twitter API) using Node.js, Express and Web Audio API (Tone.js)
-
-- **Volumetric capture using DepthKit** - *ITP Camp* (2016)
-This goal of this workshop was to learn *hands-on* how to use DepthKit's software (with a Kinect and a DSLR) to capture a human performance as a volumetric capture and to render it in Unity.
-
-- **Interactive Film (roundtable)** - *Anilouge Animation Festival* (2015)
-A roundtable about current possibilities in film-making, virtual reality and interactive storytelling
-
-- **Animating with MIDI** - *Budapest University* (2015)
-During Anilouge Animation Festival I conducted a workshop in Budapest University's Interaction Design department about using MIDI in real-time to drive animations and visual effects in WebGL.
