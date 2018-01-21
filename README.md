@@ -48,7 +48,7 @@ I am an advanced coffee drinker, cat aficionado and hobbyist musician. I am pass
 
   Master’s degree, Interactive Telecommunications Program (ITP)
   - Specializing in computer graphics, volumetric capturing and immersive experience development.
-  - Developing machine learning driven computer graphics software under Ken Perlin's advisement and research group featured in tech sites (e.g Wired).
+  - Developing machine learning driven computer graphics software under *Ken Perlin's* advisement and research group featured in tech sites (e.g Wired).
 
 
 - **Tel Aviv University** - *B.A. (2011-2014)*
