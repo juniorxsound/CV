@@ -126,7 +126,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - Extensive knowledge in *Virtual and Augmented Reality* content development (WebVR, WebAR, ARKit, Unity for Rift, Vive and GearVR).
 - Software: Unity, TouchDesigner, Nuke, Avid MC, Adobe Creative Cloud, Blender, Octane Renderer, Vue, Pro-Tools, Ableton Live, Max/MSP/Jitter.
 - Programming languages: Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
-- Further knowledge in Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine Learning (tensorflow, CoreML), PCB design, electronics.
+- Further knowledge in Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine learning (tensorflow, CoreML), PCB design, electronics.
 
 ---
 ### Press:
