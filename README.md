@@ -78,18 +78,6 @@ A roundtable about current possibilities in film-making, virtual reality and int
 During Anilouge Animation Festival I conducted a workshop in Budapest University's Interaction Design department about using MIDI in real-time to drive animations and visual effects in WebGL.
 
 ---
-
-### Skills:
-- **Languages:** Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
-- **Graphics:** WebGL, OpenGL, GLSL, HLSL, Canvas (Vanila, Three.js, Unity, openFrameworks, Touch Designer, SceneKit, GLEW, GLFW)
-- **API's & SDK's:** WebVR, WebAR, ARKit, Unity VR development (Oculus, Vive), Steam SDK, Kinect SDK.
-- **Audio:** ProTools, Ableton Live, MaxMSP, Csound, Web-Audio API
-- **Design:** Adobe Illustrator, Adobe Photoshop, Adobe Indesign Adobe XD, Sketch
-- **Video:** Adobe Premiere, Avid MC, Adobe AfterEffects, Nuke
-- **3D:** Blender, Octane Renderer, Vue
-- **Misc:** Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine Learning (tensorflow, CoreML), PCB design, electronics, open-source software development
-
----
 ### Press:
 - **Wired** - [Death Mask](https://www.wired.it/attualita/tech/2017/12/20/death-mask-realta-morte-previsione/)
 - **UploadVR** - [Death Mask](https://uploadvr.com/arkit-death-mask/)
@@ -133,3 +121,17 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Patchlab** - [Livyatanim: MYTH](http://patchlab.pl/media-labdiscount-for-resolume/)
 - **Miami FILMGATE** - [Livyatanim: MYTH](http://www.filmgate.miami/fordistas-vr-pavilion/)
 - **Amsterdam KLIK** - [Livyatanim: MYTH](http://www.klik.amsterdam/festival/program-details/326)
+
+---
+
+### Skills:
+- **Programming languages:** Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
+- **Spoken Languages:** English, Hebrew
+- **Graphics:** WebGL, OpenGL, GLSL, HLSL, Canvas (Vanila, Three.js, Unity, openFrameworks, Touch Designer, SceneKit, GLEW, GLFW)
+- **API's & SDK's:** WebVR, WebAR, ARKit, Unity VR development (Oculus, Vive), Steam SDK, Kinect SDK.
+- **Audio:** ProTools, Ableton Live, MaxMSP, Csound, Web-Audio API
+- **Design:** Adobe Illustrator, Adobe Photoshop, Adobe Indesign Adobe XD, Sketch
+- **Video:** Adobe Premiere, Avid MC, Adobe AfterEffects, Nuke
+- **3D:** Blender, Octane Renderer, Vue
+- **Misc:** Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine Learning (tensorflow, CoreML), PCB design, electronics, open-source software development
+
