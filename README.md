@@ -44,12 +44,25 @@ I am an advanced coffee drinker, cat aficionado and hobbyist musician. I am pass
 ---
 
 ### Education:
-- **Master's - Interactive Telecommunications Program** - *New York University* (2016-2018)
+- **New York University** - *M.P.S (2016-Present)*
 
-- **Bachelor of Arts - Film** - *Tel Aviv University* (2011-2014)
+  Masters degree, Interactive Telecommunications Program (ITP)
+  - Some really important thing I did
+  - Another really important thing I did
 
-- **Avid Expert Certificates** - *Future Rhythm, San Jose, CA* (2010)
-Graduated from Future Rhythm, certified Avid training facility. through the course of my studies I learned Avid’s Pro Tools™ HD Expert Curriculum in both music (310M) and post-production (310P)
+
+- **Tel Aviv University** - *B.A. (2011-2014)*
+
+  Bachelor of Arts, Film and television
+  - Some really important thing I did
+  - Another really important thing I did
+
+- **Future Rhythm** - *Expert Certificates (2010)*
+
+  310M and 310P Avid Expert Certificates in Pro Tools
+  - Some really important thing I did
+  - Another really important thing I did
+  Graduated from Future Rhythm, certified Avid training facility. through the course of my studies I learned Avid’s Pro     Tools™ HD Expert Curriculum in both music (310M) and post-production (310P)
 
 ---
 
