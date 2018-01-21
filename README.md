@@ -15,18 +15,21 @@
 
 Or Fleisher
 
-Age: 28
+**Age:** 28
 
-Address:
+**Address:**
 
-1991 Broadway, 
+1991 Broadway,
+
 Apt 7A, 
+
 New York, 10023, 
+
 NY
 
-Phone: (+1)347-339-9440
+**Phone:** (+1)347-339-9440
 
-Mail: [contact@orfleisher.com](mailto:contact@orfleisher.com)
+**Mail:** [contact@orfleisher.com](mailto:contact@orfleisher.com)
 
 [Github](https://github.com/juniorxsound) | [Twitter](https://twitter.com/juniorxsound) | [YouTube](https://www.youtube.com/user/JuniorxSound/) | [LinkedIn](https://www.linkedin.com/in/orfleisher/)
 
