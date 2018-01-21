@@ -36,6 +36,9 @@ I started my career as a sound designer and musician. After working in audio pos
 
 Upon graudation, I co-founded [Phenomena Labs](http://phenomenalabs.com) an award winning visual effect and interaction design studio. I worked as a creative and technical director designing, developing and executing interactive experiences. Currently, I am a master's candadite at ITP, Tisch School of the Arts at New York University.
 
+### Things to know about me:
+Advanced coffee drinker, cat aficionado and cinephile.
+
 ---
 
 ### Education:
@@ -129,9 +132,6 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Video:** Adobe Premiere, Avid MC, Adobe AfterEffects, Nuke
 - **3D:** Blender, Octane Renderer, Vue
 - **Misc:** Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine Learning (tensorflow, CoreML), PCB design, electronics, open-source software development
-
-### Things to know about me:
-Advanced coffee drinker, cat aficionado and cinephile.
 
 ---
 ### Press:
