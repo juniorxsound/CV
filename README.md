@@ -22,7 +22,7 @@ Apt 7A,
 New York, 10023, 
 NY
 
-Phone: +1-347-339-9440
+Phone: (+1)347-339-9440
 
 Mail: [contact@orfleisher.com](mailto:contact@orfleisher.com)
 
