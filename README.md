@@ -46,7 +46,7 @@ I am an advanced coffee drinker, cat aficionado and hobbyist musician. I am pass
 ### Education:
 - **New York University** - *M.P.S (2016-Present)*
 
-  Masters degree, Interactive Telecommunications Program (ITP)
+  Master’s degree, Interactive Telecommunications Program (ITP)
   - Some really important thing I did
   - Another really important thing I did
 
