@@ -123,6 +123,10 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 ### Technical skills:
 |--|--|--|--|--|
 |--|--|--|--|--|
+|--|--|--|--|--|
+|--|--|--|--|--|
+|--|--|--|--|--|
+|--|--|--|--|--|
 - **Programming languages:** Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
 - **Spoken Languages:** English, Hebrew
 - **Graphics:** WebGL, OpenGL, GLSL, HLSL, Canvas (Vanila, Three.js, Unity, openFrameworks, Touch Designer, SceneKit, GLEW, GLFW)
