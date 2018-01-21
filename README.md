@@ -110,6 +110,13 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 ---
 
 ### Skills:
+
+- A team player who strives for collabrative engagements.
+- A strong networking affinity with great personal and social skills.
+- High tenure under deadlines and ability to multitask and simplify creative and technical solutions.
+
+
+
 - **Programming languages:** Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
 - **Spoken Languages:** English, Hebrew
 - **Graphics:** WebGL, OpenGL, GLSL, HLSL, Canvas (Vanila, Three.js, Unity, openFrameworks, Touch Designer, SceneKit, GLEW, GLFW)
