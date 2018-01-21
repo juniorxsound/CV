@@ -47,21 +47,20 @@ I am an advanced coffee drinker, cat aficionado and hobbyist musician. I am pass
 - **New York University** - *M.P.S (2016-Present)*
 
   Master’s degree, Interactive Telecommunications Program (ITP)
-  - Some really important thing I did
-  - Another really important thing I did
+  - Specializing in computer graphics, volumetric capturing and immersive experience development.
+  - Developing machine learning driven computer graphics software under Ken Perlin's advisement and research group featured in tech sites (e.g Wired).
 
 
 - **Tel Aviv University** - *B.A. (2011-2014)*
 
   Bachelor of Arts, Film and television
-  - Some really important thing I did
-  - Another really important thing I did
+  - Seminar research in interactive storytelling titled "The Choices we Hear" examining the use of sound in interactive narrative.
 
 - **Future Rhythm** - *Expert Certification (2010)*
 
   Official Avid Expert Certificates in Pro Tools (310M, 310P)  
   - Graduated from Future Rhythm, a certified Avid training facility earning 310M and 310P expert certificates. 
-  - Avid’s Pro Tools™ HD expert curriculum in music production (310M) and post-production (310P)
+  - Avid’s Pro Tools™ HD expert curriculum in music production and post-production.
 
 ---
 
