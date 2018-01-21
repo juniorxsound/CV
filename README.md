@@ -1,11 +1,13 @@
 1. [Personal information](#personal-information)
 1. [Short Bio](#short-bio)
-1. [Work experience](#work-experience)
 1. [Education](#education)
-1. [Skills](#skills)
+1. [Work experience](#work-experience)
+1. [Workshops & talks](#workshops--talks)
+1. [Skill-set](#skills)
+1. [Awards & festival participation](#awards)
 1. [Press](#press)
-1. [Awards](#awards)
-1. [Workshops](#workshops--talks)
+
+
 
 ---
 
