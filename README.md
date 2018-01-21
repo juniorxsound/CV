@@ -54,7 +54,7 @@ I am an advanced coffee drinker, cat aficionado and hobbyist musician. I am pass
 - **Tel Aviv University** - *B.A. (2011-2014)*
 
   Bachelor of Arts, Film and television
-  - Seminar research in interactive storytelling titled "The Choices we Hear" examining the use of sound in interactive narrative.
+  - Seminar research in interactive storytelling titled "The Choices we Hear" examining the use of sound in interactive narrative works.
 
 - **Future Rhythm** - *Expert Certification (2010)*
 
