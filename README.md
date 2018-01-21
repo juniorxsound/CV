@@ -78,21 +78,6 @@ A roundtable about current possibilities in film-making, virtual reality and int
 During Anilouge Animation Festival I conducted a workshop in Budapest University's Interaction Design department about using MIDI in real-time to drive animations and visual effects in WebGL.
 
 ---
-### Press:
-- **Wired** - [Death Mask](https://www.wired.it/attualita/tech/2017/12/20/death-mask-realta-morte-previsione/)
-- **UploadVR** - [Death Mask](https://uploadvr.com/arkit-death-mask/)
-- **Next Reality** - [Death Mask](https://next.reality.news/news/ar-experiment-adds-life-clock-anyone-with-face-0181330/)
-- **prosthetic knowledge** - [TwitAR](http://prostheticknowledge.tumblr.com/post/166745203731/twitar-coding-experiment-from-or-fleisher-and)
-- **Next Reality** - [TwitAR](https://mobile-ar.reality.news/news/bizarre-ar-experiment-serves-tweets-for-everything-your-iphone-can-see-0180743/)
-- **Creators Project** - [Livyatanim: MYTH](https://creators.vice.com/en_us/article/ez5qva/float-through-a-virtual-world-of-hybrid-beings-in-myth)
-- **We and the Color** - [Livyatanim: MYTH](https://weandthecolor.com/webgl-short-film-livyatanim-myth/62302)
-- **Z by Ultranoir** - [Livyatanim: MYTH](http://z.ultranoir.com/en/articles/1282-livyatanim-myth-a-vr-film-by-or-fleisher.html)
-- **Creators Project** - [Livyatanim: SONO](https://creators.vice.com/en_us/article/aenxpb/sono-livyatanim-audio-reactive-live-vr-performance)
-- **Creators Project** - [Tzina](https://creators.vice.com/en_us/article/mg44g4/symphony-of-longing-interactive-vr-doc-tel-aviv)
-- **Ha'aretz** - [Tzina](https://www.haaretz.co.il/gallery/cinema/.premium-1.4083991)
-- **Calcalist** - [Tzina](https://www.calcalist.co.il/consumer/articles/0,7340,L-3693396,00.html)
-
----
 ### Awards:
 
 - **WorldFest- NASA Remi Award winner** - *Livyatanim: MYTH*
@@ -134,4 +119,19 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Video:** Adobe Premiere, Avid MC, Adobe AfterEffects, Nuke
 - **3D:** Blender, Octane Renderer, Vue
 - **Misc:** Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine Learning (tensorflow, CoreML), PCB design, electronics, open-source software development
+
+---
+### Press:
+- **Wired** - [Death Mask](https://www.wired.it/attualita/tech/2017/12/20/death-mask-realta-morte-previsione/)
+- **UploadVR** - [Death Mask](https://uploadvr.com/arkit-death-mask/)
+- **Next Reality** - [Death Mask](https://next.reality.news/news/ar-experiment-adds-life-clock-anyone-with-face-0181330/)
+- **prosthetic knowledge** - [TwitAR](http://prostheticknowledge.tumblr.com/post/166745203731/twitar-coding-experiment-from-or-fleisher-and)
+- **Next Reality** - [TwitAR](https://mobile-ar.reality.news/news/bizarre-ar-experiment-serves-tweets-for-everything-your-iphone-can-see-0180743/)
+- **Creators Project** - [Livyatanim: MYTH](https://creators.vice.com/en_us/article/ez5qva/float-through-a-virtual-world-of-hybrid-beings-in-myth)
+- **We and the Color** - [Livyatanim: MYTH](https://weandthecolor.com/webgl-short-film-livyatanim-myth/62302)
+- **Z by Ultranoir** - [Livyatanim: MYTH](http://z.ultranoir.com/en/articles/1282-livyatanim-myth-a-vr-film-by-or-fleisher.html)
+- **Creators Project** - [Livyatanim: SONO](https://creators.vice.com/en_us/article/aenxpb/sono-livyatanim-audio-reactive-live-vr-performance)
+- **Creators Project** - [Tzina](https://creators.vice.com/en_us/article/mg44g4/symphony-of-longing-interactive-vr-doc-tel-aviv)
+- **Ha'aretz** - [Tzina](https://www.haaretz.co.il/gallery/cinema/.premium-1.4083991)
+- **Calcalist** - [Tzina](https://www.calcalist.co.il/consumer/articles/0,7340,L-3693396,00.html)
 
