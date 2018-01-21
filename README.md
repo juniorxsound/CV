@@ -111,14 +111,15 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 
 ### Skills:
 
-- A team player who strives for a collabrative work atmosphere.
-- A strong networking affinity, with great personal and social skills.
-- High tenure under deadlines with an ability to multitask and simplify problems while finding creative and technical solutions.
+- Team player who strives for a collabrative work atmosphere.
+- Strong networking affinity, with great personal and social skills.
+- High tenure under deadlines, with an ability to multitask and simplify problems, finding creative and technical solutions in variegated situations.
 - Ability to communicate simple and complex issues in a clear and concice way.
 
 
-
-
+### Technical skills:
+|--|--|--|--|--|
+|--|--|--|--|--|
 - **Programming languages:** Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
 - **Spoken Languages:** English, Hebrew
 - **Graphics:** WebGL, OpenGL, GLSL, HLSL, Canvas (Vanila, Three.js, Unity, openFrameworks, Touch Designer, SceneKit, GLEW, GLFW)
@@ -128,6 +129,9 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Video:** Adobe Premiere, Avid MC, Adobe AfterEffects, Nuke
 - **3D:** Blender, Octane Renderer, Vue
 - **Misc:** Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine Learning (tensorflow, CoreML), PCB design, electronics, open-source software development
+
+### Things to know about me:
+Advanced coffee drinker, cat aficionado and cinephile.
 
 ---
 ### Press:
