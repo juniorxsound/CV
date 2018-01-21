@@ -9,15 +9,22 @@
 
 ---
 
-### Info:
+### Personal information:
 
-name: Or Fleisher
+Or Fleisher
 
-phone: 347-339-9440
+age: 28
+
+address:
+
+1991 Broadway, 
+Apt 7A, 
+New York, 10023, 
+NY
+
+phone: +1-347-339-9440
 
 mail: [contact@orfleisher.com](mailto:contact@orfleisher.com)
-
-portfolio: [orfleisher.com](http://orfleisher.com)
 
 [Github](https://github.com/juniorxsound) | [Twitter](https://twitter.com/juniorxsound) | [YouTube](https://www.youtube.com/user/JuniorxSound/) | [LinkedIn](https://www.linkedin.com/in/orfleisher/)
 
@@ -30,7 +37,10 @@ I started my career as a sound designer and musician. After working in audio pos
 Upon graudation, I co-founded [Phenomena Labs](http://phenomenalabs.com) an award winning visual effect and interaction design studio. I worked as a creative and technical director designing, developing and executing interactive experiences. Currently, I am a master's candadite at ITP, Tisch School of the Arts at New York University.
 
 ---
-### Work history:
+### Work experience:
+
+Professional portfolio: [orfleisher.com](http://orfleisher.com)
+
 - **VR Research Fellow** - *Viacom* (2017)
 Honored to have been selected as a research fellow in Viacom Next music and virtual reality fellowship, under which I designed, developed and created a WebVR experience.
 - **Co-Founder** - *Phenomena Labs* (2010-2016)
