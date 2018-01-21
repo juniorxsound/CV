@@ -96,7 +96,7 @@ Professional portfolio: [orfleisher.com](http://orfleisher.com)
 [This workshop](https://github.com/dodiku/music_with_data_workshop) was focused on creating generative music with Twitter data (Twitter API) using Node.js, Express and Web Audio API (Tone.js)
 
 - **Volumetric capture using DepthKit** - *ITP Camp* (2016)
-This goal of this workshop was to learn *hands-on* how to use DepthKit's software (with a Kinect and a DSLR) to capture a human performance as a volumetric capture and to render it in Unity.
+The goal of this workshop was to learn *hands-on* how to use DepthKit's software (with a Kinect and a DSLR) to capture a human performance as a volumetric capture and to render it in Unity.
 
 - **Interactive Film (roundtable)** - *Anilouge Animation Festival* (2015)
 A roundtable about current possibilities in film-making, virtual reality and interactive storytelling
