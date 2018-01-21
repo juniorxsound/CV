@@ -57,7 +57,7 @@ I am an advanced coffee drinker, cat aficionado and hobbyist musician. I am pass
   - Some really important thing I did
   - Another really important thing I did
 
-- **Future Rhythm** - *Expert Certificates (2010)*
+- **Future Rhythm** - *Official Expert Certification (2010)*
 
   310M and 310P Avid Expert Certificates in Pro Tools
   - Some really important thing I did
