@@ -37,7 +37,7 @@ I started my career as a sound designer and musician. After working in audio pos
 Upon graudation, I co-founded [Phenomena Labs](http://phenomenalabs.com) an award winning visual effect and interaction design studio. I worked as a creative and technical director designing, developing and executing interactive experiences. Currently, I am a master's candadite at ITP, Tisch School of the Arts at New York University.
 
 ### Things to know about me:
-Advanced coffee drinker, cat aficionado and cinephile.
+I am an advanced coffee drinker, cat aficionado and hobbyist muscian. I am passionate about cinematography and open source software.
 
 ---
 
