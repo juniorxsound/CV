@@ -114,22 +114,19 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 
 ### Skills:
 
+- Spoken Languages: English, Hebrew.
 - Team player who strives for a collabrative work atmosphere.
 - Strong networking affinity, with great personal and social skills.
 - High tenure under deadlines, with an ability to multitask and simplify problems, finding creative and technical solutions in variegated situations.
 - Ability to communicate simple and complex issues in a clear and concice way.
 
 
+
 ### Technical skills:
-|--|--|--|--|--|
-|--|--|--|--|--|
-|--|--|--|--|--|
-|--|--|--|--|--|
-|--|--|--|--|--|
-|--|--|--|--|--|
+- Graphics programmer experienced with *WebGL*, *2D Canvas*, *OpenGL*, shader programming (GLSL, HLSL).
+
 - **Programming languages:** Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
-- **Spoken Languages:** English, Hebrew
-- **Graphics:** WebGL, OpenGL, GLSL, HLSL, Canvas (Vanila, Three.js, Unity, openFrameworks, Touch Designer, SceneKit, GLEW, GLFW)
+- **Graphics:** WebGL, OpenGL, GLSL, HLSL, Canvas (Vanilla, Three.js, Unity, openFrameworks, Touch Designer, SceneKit, GLEW, GLFW)
 - **API's & SDK's:** WebVR, WebAR, ARKit, Unity VR development (Oculus, Vive), Steam SDK, Kinect SDK.
 - **Audio:** ProTools, Ableton Live, MaxMSP, Csound, Web-Audio API
 - **Design:** Adobe Illustrator, Adobe Photoshop, Adobe Indesign Adobe XD, Sketch
