@@ -13,7 +13,7 @@
 
 ### Personal information:
 
-Or Fleisher
+**Name:** Or Fleisher
 
 **Age:** 28
 
