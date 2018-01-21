@@ -121,18 +121,12 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - Ability to communicate simple and complex issues in a clear and concice way.
 
 
-
 ### Technical skills:
-- Graphics programmer experienced with *WebGL*, *2D Canvas*, *OpenGL*, shader programming (GLSL, HLSL).
-
-- **Programming languages:** Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
-- **Graphics:** WebGL, OpenGL, GLSL, HLSL, Canvas (Vanilla, Three.js, Unity, openFrameworks, Touch Designer, SceneKit, GLEW, GLFW)
-- **API's & SDK's:** WebVR, WebAR, ARKit, Unity VR development (Oculus, Vive), Steam SDK, Kinect SDK.
-- **Audio:** ProTools, Ableton Live, MaxMSP, Csound, Web-Audio API
-- **Design:** Adobe Illustrator, Adobe Photoshop, Adobe Indesign Adobe XD, Sketch
-- **Video:** Adobe Premiere, Avid MC, Adobe AfterEffects, Nuke
-- **3D:** Blender, Octane Renderer, Vue
-- **Misc:** Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine Learning (tensorflow, CoreML), PCB design, electronics, open-source software development
+- Graphics programmer experienced with *WebGL*, *2D Canvas*, *OpenGL* and advanced *shader programming (GLSL, HLSL)*.
+- Extensive knowledge in *Virtual and Augmented Reality* content development (WebVR, WebAR, ARKit, Unity for Rift, Vive and GearVR).
+- Software: Unity, TouchDesigner, Nuke, Avid MC, Adobe Creative Cloud, Blender, Octane Renderer, Vue, Pro-Tools, Ableton Live, Max/MSP/Jitter.
+- Programming languages: Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
+- Further knowledge in Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine Learning (tensorflow, CoreML), PCB design, electronics.
 
 ---
 ### Press:
