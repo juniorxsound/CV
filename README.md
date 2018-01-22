@@ -158,6 +158,8 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 
 ---
 ### Press:
+- **The Next Web** - [Volume: Inside Pulp Fiction](https://thenextweb.com/artificial-intelligence/2018/01/22/ai-rips-objects-from-video-and-reimagines-them-in-3d-ar/)
+- **prosthetic knowledge** - [Volume: Inside Pulp Fiction](http://prostheticknowledge.tumblr.com/post/170014746561/volume-in-development-project-from-or-fleisher)
 - **Wired** - [Death Mask](https://www.wired.it/attualita/tech/2017/12/20/death-mask-realta-morte-previsione/)
 - **UploadVR** - [Death Mask](https://uploadvr.com/arkit-death-mask/)
 - **Next Reality** - [Death Mask](https://next.reality.news/news/ar-experiment-adds-life-clock-anyone-with-face-0181330/)
