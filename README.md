@@ -160,6 +160,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 ### Press:
 - **Discovery Channel - Daily Planet** - [Volume: Inside Pulp Fiction](https://www.youtube.com/watch?v=Zi4yof2yy04)
 - **The Next Web** - [Volume: Inside Pulp Fiction](https://thenextweb.com/artificial-intelligence/2018/01/22/ai-rips-objects-from-video-and-reimagines-them-in-3d-ar/)
+- **UploadVR** - [Volume: Inside Pulp Fiction](https://uploadvr.com/ar-app-brings-pulp-fiction-characters-living-room/)
 - **prosthetic knowledge** - [Volume: Inside Pulp Fiction](http://prostheticknowledge.tumblr.com/post/170014746561/volume-in-development-project-from-or-fleisher)
 - **Android Headlines** - [Volume: Inside Pulp Fiction](https://www.androidheadlines.com/2018/01/volume-ai-program-puts-2d-objects-3d-spaces.html)
 - **Wired** - [Death Mask](https://www.wired.it/attualita/tech/2017/12/20/death-mask-realta-morte-previsione/)
