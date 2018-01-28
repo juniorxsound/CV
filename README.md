@@ -168,6 +168,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Next Reality** - [Death Mask](https://next.reality.news/news/ar-experiment-adds-life-clock-anyone-with-face-0181330/)
 - **prosthetic knowledge** - [TwitAR](http://prostheticknowledge.tumblr.com/post/166745203731/twitar-coding-experiment-from-or-fleisher-and)
 - **Next Reality** - [TwitAR](https://mobile-ar.reality.news/news/bizarre-ar-experiment-serves-tweets-for-everything-your-iphone-can-see-0180743/)
+- **Wired** - [Livyatanim: MYTH](https://www.wired.de/collection/life/10-virtual-reality-filme-die-man-gesehen-haben-muss)
 - **Creators Project** - [Livyatanim: MYTH](https://creators.vice.com/en_us/article/ez5qva/float-through-a-virtual-world-of-hybrid-beings-in-myth)
 - **We and the Color** - [Livyatanim: MYTH](https://weandthecolor.com/webgl-short-film-livyatanim-myth/62302)
 - **Z by Ultranoir** - [Livyatanim: MYTH](http://z.ultranoir.com/en/articles/1282-livyatanim-myth-a-vr-film-by-or-fleisher.html)
