@@ -35,14 +35,16 @@ NY
 
 ---
 ### Short bio:
-Based in NYC, I am a director, developer and artist working at the intersection of technology and storytelling. My interests include computer graphics, web development and immersive experience development in virtual, augmented and mixed realities.
+Based in NYC, I am a director, developer, artist working at the intersection of technology and storytelling. My interests include computer graphics, web development and immersive experience development in virtual, augmented and mixed realities.
 
-I started my career as a sound designer and musician. After working in audio post production for a few years I attended Tel Aviv University film school and started coding, designing and releasing interactive storytelling driven experiences.
+I started my career as a sound designer and musician. After working in audio post-production for a few years I attended Tel Aviv University film school and started coding, designing and releasing interactive storytelling driven experiences.
 
-Upon graduation, I co-founded [Phenomena Labs](http://phenomenalabs.com) an award winning visual effect and interaction design studio. I worked as a creative and technical director designing, developing and executing interactive experiences. Currently, I am a master's candadite at ITP, Tisch School of the Arts at New York University.
+Upon graduation, I co-founded Phenomena Labs an award-winning visual effect and interaction design studio. I worked as a creative and technical director designing, developing and executing interactive experiences. Currently, I am a master's candidate at ITP, Tisch School of the Arts at New York University.
+
+
 
 ### Things to know about me:
-I am an advanced coffee drinker, cat aficionado and hobbyist musician. I am passionate about cinematography and open source software.
+I am an advanced coffee drinker, cat aficionado, hobbyist musician. I am passionate about cinematography and open source software.
 
 ---
 
@@ -50,8 +52,9 @@ I am an advanced coffee drinker, cat aficionado and hobbyist musician. I am pass
 - **New York University** - *M.P.S (2016-Present)*
 
   Master’s degree, Interactive Telecommunications Program (ITP)
-  - Specializing in computer graphics, volumetric capturing and immersive experience development.
-  - Developing machine learning driven computer graphics software under Ken Perlin's acclaimed research group
+  - Specializing in computer graphics, volumetric capturing and immersive experience development
+  - Worked under Ken Perlin’s acclaimed research group, developing machine learning driven computer graphics software, which was featured in tech magazines, such as Wired
+  - Worked as a creative coder under Gabe Barcia Columbo developing an interactive installation for SXSW
 
 
 - **Tel Aviv University** - *B.A. (2011-2014)*
