@@ -158,6 +158,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 
 ---
 ### Press:
+- **The Next Web** - [Skeletron](https://thenextweb.com/artificial-intelligence/2018/01/30/programmers-use-tensorflow-ai-to-turn-any-webcam-into-microsoft-kinect/)
 - **Discovery Channel - Daily Planet** - [Volume: Inside Pulp Fiction](https://www.youtube.com/watch?v=Zi4yof2yy04)
 - **The Next Web** - [Volume: Inside Pulp Fiction](https://thenextweb.com/artificial-intelligence/2018/01/22/ai-rips-objects-from-video-and-reimagines-them-in-3d-ar/)
 - **Vice Motherboard** - [Volume: Inside Pulp Fiction](https://motherboard.vice.com/en_us/article/gywamy/cue-up-the-pulp-fiction-dance-scene-this-app-3d-projects-2d-movies-in-your-living-room)
