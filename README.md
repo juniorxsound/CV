@@ -81,8 +81,8 @@ Professional portfolio: [orfleisher.com](http://orfleisher.com)
   
 - **Co-Founder** - *Phenomena Labs* (2010-2016)
   - Co-Founded an award winning visual effects and interaction design studio with *Ronen Tanchum* and *Guy Fleisher*.
-  - Built, recruited teams and directed immersive experiences with more than 5 published Virtual Reality titles in Oculus, GearVR and WebVR app stores.
-  - Served as technical director for the development of multipule projects ranging from film, installations and immersive experiences.
+  - Directed, developed and published 5 Virtual Reality titles in Oculus, GearVR and WebVR app stores, featured in prestigious international festivals such as Cannes Festival, Game Developers Conference, SIGGRAPH and SXSW
+  - Received awards such as Design and Art Direction, Urban MediaMakers Best Interactive, Worldfest NASA Remi Award, FWA, Awwwards and CSS Design Awards
   
 - **Sound Supervisor** - *Rishon Hall of Arts* (2009-2010)
   - Sound design and mixing of performances ranging from art installations and theatre to dance groups.
