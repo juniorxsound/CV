@@ -159,9 +159,12 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 ---
 ### Press:
 - **The Next Web** - [Skeletron](https://thenextweb.com/artificial-intelligence/2018/01/30/programmers-use-tensorflow-ai-to-turn-any-webcam-into-microsoft-kinect/)
+- **TechRadar** - [Skeletron](http://www.techradar.com/news/ai-developers-can-turn-any-webcam-into-a-kinect)
+- **Anrdoid Headlines** - [Skeletron](https://www.androidheadlines.com/2018/01/tensorflow-unity-turn-webcams-into-ai-powered-ar-systems.html)
 - **Discovery Channel - Daily Planet** - [Volume: Inside Pulp Fiction](https://www.youtube.com/watch?v=Zi4yof2yy04)
 - **The Next Web** - [Volume: Inside Pulp Fiction](https://thenextweb.com/artificial-intelligence/2018/01/22/ai-rips-objects-from-video-and-reimagines-them-in-3d-ar/)
 - **Vice Motherboard** - [Volume: Inside Pulp Fiction](https://motherboard.vice.com/en_us/article/gywamy/cue-up-the-pulp-fiction-dance-scene-this-app-3d-projects-2d-movies-in-your-living-room)
+- **Mashable** - [Volume: Inside Pulp Fiction](http://mashable.france24.com/tech-business/20180130-films-volume-realite-augmentee-cinema-technologie)
 - **UploadVR** - [Volume: Inside Pulp Fiction](https://uploadvr.com/ar-app-brings-pulp-fiction-characters-living-room/)
 - **prosthetic knowledge** - [Volume: Inside Pulp Fiction](http://prostheticknowledge.tumblr.com/post/170014746561/volume-in-development-project-from-or-fleisher)
 - **Android Headlines** - [Volume: Inside Pulp Fiction](https://www.androidheadlines.com/2018/01/volume-ai-program-puts-2d-objects-3d-spaces.html)
