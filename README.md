@@ -170,6 +170,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Mashable** - [Volume: Inside Pulp Fiction](http://mashable.france24.com/tech-business/20180130-films-volume-realite-augmentee-cinema-technologie)
 - **UploadVR** - [Volume: Inside Pulp Fiction](https://uploadvr.com/ar-app-brings-pulp-fiction-characters-living-room/)
 - **prosthetic knowledge** - [Volume: Inside Pulp Fiction](http://prostheticknowledge.tumblr.com/post/170014746561/volume-in-development-project-from-or-fleisher)
+- **VRFocus** - [Volume: Inside Pulp Fiction](https://www.vrfocus.com/2018/01/reconstruct-your-favourite-movie-in-ar/)
 - **Android Headlines** - [Volume: Inside Pulp Fiction](https://www.androidheadlines.com/2018/01/volume-ai-program-puts-2d-objects-3d-spaces.html)
 - **Wired** - [Death Mask](https://www.wired.it/attualita/tech/2017/12/20/death-mask-realta-morte-previsione/)
 - **UploadVR** - [Death Mask](https://uploadvr.com/arkit-death-mask/)
