@@ -161,6 +161,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 
 ---
 ### Press:
+- **The Next Web** - [Expert Opinion](https://thenextweb.com/artificial-intelligence/2018/03/07/intels-vpu-could-save-gamers-from-losing-gpu-power-to-ai-in-the-next-windows-update/)
 - **The Next Web** - [Skeletron](https://thenextweb.com/artificial-intelligence/2018/01/30/programmers-use-tensorflow-ai-to-turn-any-webcam-into-microsoft-kinect/)
 - **TechRadar** - [Skeletron](http://www.techradar.com/news/ai-developers-can-turn-any-webcam-into-a-kinect)
 - **Anrdoid Headlines** - [Skeletron](https://www.androidheadlines.com/2018/01/tensorflow-unity-turn-webcams-into-ai-powered-ar-systems.html)
