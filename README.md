@@ -161,6 +161,9 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 
 ---
 ### Press:
+- **The Next Web** - [Volume.gl website](https://thenextweb.com/artificial-intelligence/2018/03/08/try-this-ai-experiment-that-converts-2d-images-to-3d/)
+- **prosthetic knowledge** - [Volume.gl website](http://prostheticknowledge.tumblr.com/post/171637247736/volume-online-update-update-to-machine-learning)
+- **Tecmundo** - [Volume.gl website(https://www.tecmundo.com.br/software/127998-ia-transforma-qualquer-foto-modelo-3d-teste.htm)
 - **The Next Web** - [Expert Opinion](https://thenextweb.com/artificial-intelligence/2018/03/07/intels-vpu-could-save-gamers-from-losing-gpu-power-to-ai-in-the-next-windows-update/)
 - **The Next Web** - [Skeletron](https://thenextweb.com/artificial-intelligence/2018/01/30/programmers-use-tensorflow-ai-to-turn-any-webcam-into-microsoft-kinect/)
 - **TechRadar** - [Skeletron](http://www.techradar.com/news/ai-developers-can-turn-any-webcam-into-a-kinect)
