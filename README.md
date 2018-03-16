@@ -39,7 +39,7 @@ Based in NYC, I am a director, developer, artist working at the intersection of 
 
 I started my career as a sound designer and musician. After working in audio post-production for a few years I attended Tel Aviv University film school and started coding, designing and releasing interactive storytelling driven experiences.
 
-Upon graduation, I co-founded Phenomena Labs an award-winning visual effect and interaction design studio. I worked as a creative and technical director designing, developing and executing interactive experiences. Currently, I am a master's candidate at ITP, Tisch School of the Arts at New York University.
+Upon graduation, I co-founded [Phenomena Labs](http://phenomenalabs.com) an award-winning visual effect and interaction design studio. I worked as a creative and technical director designing, developing and executing interactive experiences. Currently, I am a master's candidate at ITP, Tisch School of the Arts at New York University.
 
 
 
