@@ -6,6 +6,7 @@
 1. [Skill-set](#skills)
 1. [Awards & festival participation](#awards)
 1. [Press](#press)
+1. [Publications](#publications)
 
 
 
@@ -139,6 +140,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **CSS Awards - Website of the Day** - *Livyatanim: MYTH*
 - **Awwwards – Honorable Mention** - *Livyatanim: MYTH*
 - **Communication Arts - Webpicks** - *Livyatanim: MYTH*
+- **DesignAwards.Asia - Design of the Day** - *Livyatanim: MYTH*
 - **Awwwards – Honorable Mention** - *Tzina*
 - **CSS Design Awards - Special Kodus** - *Tzina*
 - **Awwwards - Honorable Mention** - 1948
@@ -163,6 +165,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Patchlab** - [Livyatanim: MYTH](http://patchlab.pl/media-labdiscount-for-resolume/)
 - **Miami FILMGATE** - [Livyatanim: MYTH](http://www.filmgate.miami/fordistas-vr-pavilion/)
 - **Amsterdam KLIK** - [Livyatanim: MYTH](http://www.klik.amsterdam/festival/program-details/326)
+- **TimeWave Festival** - [Livyatanim: MYTH](http://timewavefestival.com/virtualrealitylab-2017-projects/)
 
 ---
 ### Press:
@@ -192,7 +195,12 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **We and the Color** - [Livyatanim: MYTH](https://weandthecolor.com/webgl-short-film-livyatanim-myth/62302)
 - **Z by Ultranoir** - [Livyatanim: MYTH](http://z.ultranoir.com/en/articles/1282-livyatanim-myth-a-vr-film-by-or-fleisher.html)
 - **Creators Project** - [Livyatanim: SONO](https://creators.vice.com/en_us/article/aenxpb/sono-livyatanim-audio-reactive-live-vr-performance)
+- **VRRoom.buzz** - [Livyatanim: SONO](https://www.vrroom.buzz/vr-news/immersive-arts/cosmic-visuals-react-live-audio-vr-show)
 - **Creators Project** - [Tzina](https://creators.vice.com/en_us/article/mg44g4/symphony-of-longing-interactive-vr-doc-tel-aviv)
 - **Ha'aretz** - [Tzina](https://www.haaretz.co.il/gallery/cinema/.premium-1.4083991)
 - **Calcalist** - [Tzina](https://www.calcalist.co.il/consumer/articles/0,7340,L-3693396,00.html)
 
+### Publications:
+- **Code that turns into art: What is creative coding?** - [Livyatanim: MYTH](https://www.geektime.co.il/what-is-creative-coding/)
+- **Value precption in immersive art** - [Livyatanim: MYTH](https://medium.com/@camillamarcal/value-perception-in-multissensorial-art-experiences-90a721b21f6b?email=fleisher.or%40gmail.com&g-recaptcha-response=03AJpayVFbTUx0I_WB55GNs5DnVNaWEGTX4hMXgLm4Mo9aHeBxoqwSTy_8H5eSOsyESTim3OGnraC0hCJAVPb3yOEiexyq9_u9ba3WM6-1MSSgXnEdC-_tSuFUtxk4zkXsYAlleIkKfklRa_T986RH2xOHVFKmkVBZRFFbT5DtfuwJvF1C2nEzsV97nbPeis0MjQRLwEs2RXTOiNB5WPvTabgFR4cpQcgyhaGeepLR9Cwb-nGsZuRoZZXn0wDMjnr49hD-v11o0fasL-rFWeNxgp9AL_CyC8JUVLs659aDQcudvwnk913C6WhE1yCfomt-SgoEXfMS3K5ZUJ2a1PNgaoFSDoz_EsPRjnhLjO5OXKdrSPd9uzN5QIXC6nuPfauNE1j1hZL3slz3QvbNSwlp59C_PlskTQmUtFS_fVOfjd7X_aj-YWZQfnykLSxrtFJ9ETSyBAdXaJcL)
+- **UXPin - Web Design Book of Trends for 2017 (Page 63)** - [Livyatanim: MYTH](https://issuu.com/hminhnhut/docs/uxpin_web_design_book_of_trends_201)
