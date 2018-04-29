@@ -142,6 +142,10 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Awwwards – Honorable Mention** - *Tzina*
 - **CSS Design Awards - Special Kodus** - *Tzina*
 - **Awwwards - Honorable Mention** - 1948
+- **CSS Design Awards - Audience Award for Best Innovation** - 1948
+- **CSS Design Awards - Audience Award for UI Design** - 1948
+- **CSS Design Awards - Audience Award for Best UX Design** - 1948
+- **CSS Design Awards - Special Kodus** - 1948
 - **Tisch School of the Arts scholarship**
 - **Red Burns scholarship**
 - **Viacom NEXT VR research fellowship**
