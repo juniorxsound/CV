@@ -141,6 +141,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Communication Arts - Webpicks** - *Livyatanim: MYTH*
 - **Awwwards – Honorable Mention** - *Tzina*
 - **CSS Design Awards - Special Kodus** - *Tzina*
+- **Awwwards - Honorable Mention** - 1948
 - **Tisch School of the Arts scholarship**
 - **Red Burns scholarship**
 - **Viacom NEXT VR research fellowship**
