@@ -143,6 +143,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **DesignAwards.Asia - Design of the Day** - *Livyatanim: MYTH*
 - **Awwwards – Honorable Mention** - *Tzina*
 - **CSS Design Awards - Special Kodus** - *Tzina*
+- **CSS Awards - Site of the Day** - 1948
 - **Awwwards - Honorable Mention** - 1948
 - **CSS Design Awards - Audience Award for Best Innovation** - 1948
 - **CSS Design Awards - Audience Award for UI Design** - 1948
