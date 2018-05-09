@@ -167,6 +167,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Miami FILMGATE** - [Livyatanim: MYTH](http://www.filmgate.miami/fordistas-vr-pavilion/)
 - **Amsterdam KLIK** - [Livyatanim: MYTH](http://www.klik.amsterdam/festival/program-details/326)
 - **TimeWave Festival** - [Livyatanim: MYTH](http://timewavefestival.com/virtualrealitylab-2017-projects/)
+- **Google I/O** - [Livyatanim: SONO](https://events.google.com/io/schedule/?section=may-8&sid=b9b21368-99b9-46f1-9c37-4b62edb853f4)
 
 ---
 ### Press:
