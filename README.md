@@ -98,6 +98,15 @@ Professional portfolio: [orfleisher.com](http://orfleisher.com)
 ---
 
 ### Workshops & talks:
+- **From Tzina to Volume** - *Volumetric Filmmaking Meetup* (2018)
+A talk in the first [Volumetric Filmmaking Meetup in NYC](https://www.meetup.com/volumetric_filmmakers_vfnyc/) about creating [Tzina](http://tzina.space) and how it led to developing [Volume](https://volume.gl)
+
+- **Volume - HyperCinema** - *New York University* (2018)
+A workshop about using [Volume](https://volume.gl) in Unity3D to create augmented and virtual reality experiences. The workshop took part at IMA, New York University as a part of a class called HyperCinema taught by Prof. Gabe BC
+
+- **Counter Histories, Alternative Narratives** - *Magnum Foundation* (2018)
+A presentation and demonstration of [Volume](https://volume.gl) in front of Magnum Foundation's current research residents. The presentation took place in Columbia University's Brown Institue for Media Innovation
+
 - **Making music with data** - *NYC Media Lab* (2017)
 [This workshop](https://github.com/dodiku/music_with_data_workshop) was focused on creating generative music with Twitter data (Twitter API) using Node.js, Express and Web Audio API (Tone.js)
 
