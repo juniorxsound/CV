@@ -117,7 +117,7 @@ A presentation and demonstration of [Volume](https://volume.gl) in front of Magn
 [The goal of this workshop](https://itp.nyu.edu/camp2017/session/169) was to learn *hands-on* how to use DepthKit's software (with a Kinect and a DSLR) to capture a human performance as a volumetric capture and to render it in Unity.
 
 - **Interactive Film (roundtable)** - *Anilouge Animation Festival* (2015)
-A roundtable about current possibilities in film-making, virtual reality and interactive storytelling
+[A roundtable](http://urania-nf.hu/en/esemenyek/505/2015/11/25/anilogue-2015-international-animation-film-festival-25-29-11-2015-) about current possibilities in film-making, virtual reality and interactive storytelling
 
 - **Animating with MIDI** - *Budapest University* (2015)
 During Anilouge Animation Festival I conducted a workshop in Budapest University's Interaction Design department about using MIDI in real-time to drive animations and visual effects in WebGL.
