@@ -185,6 +185,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 ### Exhibitions:
 - **[Uncanny](http://www.dmh.org.il/pages/default.aspx?pageId=858&catId=5)** - Design Museum Holon, 2018  
 Developed an openFrameworks MIDI controlled music installation [toolstools.tools](http://toolstools.tools) with Tal Baltuch
+
 ---
 ### Press:
 - **The Next Web** - [Volume.gl website](https://thenextweb.com/artificial-intelligence/2018/03/08/try-this-ai-experiment-that-converts-2d-images-to-3d/)
