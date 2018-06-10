@@ -98,6 +98,9 @@ Professional portfolio: [orfleisher.com](http://orfleisher.com)
 ---
 
 ### Workshops & talks:
+- **Making music with social data** - *ITP Camp, New York University* (2018)
+[This workshop](https://itp.nyu.edu/camp2018/session/81) was focused on creating generative music with Twitter data (Twitter API) using Node.js, Express and Web Audio API (Tone.js)
+
 - **From Tzina to Volume** - *Volumetric Filmmaking Meetup* (2018)
 A talk in the first [Volumetric Filmmaking Meetup in NYC](https://www.meetup.com/volumetric_filmmakers_vfnyc/) about creating [Tzina](http://tzina.space) and how it led to developing [Volume](https://volume.gl)
 
@@ -110,8 +113,8 @@ A presentation and demonstration of [Volume](https://volume.gl) in front of Magn
 - **Making music with data** - *NYC Media Lab* (2017)
 [This workshop](https://github.com/dodiku/music_with_data_workshop) was focused on creating generative music with Twitter data (Twitter API) using Node.js, Express and Web Audio API (Tone.js)
 
-- **Volumetric capture using DepthKit** - *ITP Camp* (2016)
-The goal of this workshop was to learn *hands-on* how to use DepthKit's software (with a Kinect and a DSLR) to capture a human performance as a volumetric capture and to render it in Unity.
+- **Volumetric capture using DepthKit** - *ITP Camp, New York University* (2016)
+[The goal of this workshop](https://itp.nyu.edu/camp2017/session/169) was to learn *hands-on* how to use DepthKit's software (with a Kinect and a DSLR) to capture a human performance as a volumetric capture and to render it in Unity.
 
 - **Interactive Film (roundtable)** - *Anilouge Animation Festival* (2015)
 A roundtable about current possibilities in film-making, virtual reality and interactive storytelling
@@ -134,9 +137,10 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 ### Technical skills:
 - Graphics programmer experienced with *WebGL*, *2D Canvas*, *OpenGL* and advanced *shader programming (GLSL, HLSL)*.
 - Extensive knowledge in *Virtual and Augmented Reality* content development (WebVR, WebAR, ARKit, Unity for Rift, Vive and GearVR).
+- Graphics Libraries: Three.js, openFrameworks, GLEW, GLFW, JUCE
 - Software: Unity, TouchDesigner, Nuke, Avid MC, Adobe Creative Cloud, Blender, Octane Renderer, Vue, Pro-Tools, Ableton Live, Max/MSP/Jitter.
 - Programming languages: Javascript (ES5/ES6), C++, C#, Swift, python, HTML5, CSS3D
-- Further knowledge in Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine learning (tensorflow, CoreML), PCB design, electronics.
+- Further knowledge in Depth sensing and 3D scanning, Frontend development, Node.js, Express.js, Websockets, Arduino programming, Raspberry Pi programming, Machine learning (tensorflow, CoreML), PCB design, electronics.
 
 ---
 
@@ -215,6 +219,7 @@ Developed an openFrameworks MIDI controlled music installation [toolstools.tools
 - **Creators Project** - [Tzina](https://creators.vice.com/en_us/article/mg44g4/symphony-of-longing-interactive-vr-doc-tel-aviv)
 - **Ha'aretz** - [Tzina](https://www.haaretz.co.il/gallery/cinema/.premium-1.4083991)
 - **Calcalist** - [Tzina](https://www.calcalist.co.il/consumer/articles/0,7340,L-3693396,00.html)
+- **Dot And Line** - [Judging at Anilouge 2015](http://dotandline.blog.hu/2015/11/30/europai_animaciokat_dijaztak_a_13_anilogue-on)
 
 ### Publications:
 - [**Behind The Scenes of the Worlds Best XR Designers**](https://medium.muz.li/behind-the-scenes-of-the-worlds-best-xr-designers-42a9bbc9b70d)
