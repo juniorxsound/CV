@@ -104,6 +104,9 @@ Professional portfolio: [orfleisher.com](http://orfleisher.com)
 - **From Tzina to Volume** - *Volumetric Filmmaking Meetup* (2018)
 A talk in the first [Volumetric Filmmaking Meetup in NYC](https://www.meetup.com/volumetric_filmmakers_vfnyc/) about creating [Tzina](http://tzina.space) and how it led to developing [Volume](https://volume.gl)
 
+- **Volume** - *Thesis presentation, New York University* (2018)
+[My master's thesis presentation](https://vimeo.com/270479574) at the Interactive Telecommunications Program, Tisch School of the Arts, NYU
+
 - **Volume - HyperCinema** - *New York University* (2018)
 A workshop about using [Volume](https://volume.gl) in Unity3D to create augmented and virtual reality experiences. The workshop took part at IMA, New York University as a part of a class called HyperCinema taught by Prof. Gabe BC
 
