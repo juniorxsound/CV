@@ -179,7 +179,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Google I/O** - [Livyatanim: SONO](https://events.google.com/io/schedule/?section=may-8&sid=b9b21368-99b9-46f1-9c37-4b62edb853f4)
 
 ### Exhibitions:
-- **[Uncanny](http://www.dmh.org.il/pages/default.aspx?pageId=858&catId=5)** - Design Museum Holon, 2018 
+- **[Uncanny](http://www.dmh.org.il/pages/default.aspx?pageId=858&catId=5)** - Design Museum Holon, 2018  
 Developed an openFrameworks MIDI controlled music installation [toolstools.tools](http://toolstools.tools) with Tal Baltuch
 ---
 ### Press:
