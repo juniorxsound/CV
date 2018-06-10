@@ -4,7 +4,7 @@
 1. [Work experience](#work-experience)
 1. [Workshops & talks](#workshops--talks)
 1. [Skill-set](#skills)
-1. [Awards & festival participation](#awards)
+1. [Awards, festivals & exhibitions](#awards)
 1. [Press](#press)
 1. [Publications](#publications)
 
@@ -178,6 +178,9 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **TimeWave Festival** - [Livyatanim: MYTH](http://timewavefestival.com/virtualrealitylab-2017-projects/)
 - **Google I/O** - [Livyatanim: SONO](https://events.google.com/io/schedule/?section=may-8&sid=b9b21368-99b9-46f1-9c37-4b62edb853f4)
 
+### Exhibitions:
+- **[Uncanny](http://www.dmh.org.il/pages/default.aspx?pageId=858&catId=5)** - Design Museum Holon, 2018 
+Developed an openFrameworks MIDI controlled music installation [toolstools.tools](http://toolstools.tools) with Tal Baltuch
 ---
 ### Press:
 - **The Next Web** - [Volume.gl website](https://thenextweb.com/artificial-intelligence/2018/03/08/try-this-ai-experiment-that-converts-2d-images-to-3d/)
