@@ -224,6 +224,7 @@ Developed an openFrameworks MIDI controlled music installation [toolstools.tools
 - **Ha'aretz** - [Tzina](https://www.haaretz.co.il/gallery/cinema/.premium-1.4083991)
 - **Calcalist** - [Tzina](https://www.calcalist.co.il/consumer/articles/0,7340,L-3693396,00.html)
 - **Dot And Line** - [Judging at Anilouge 2015](http://dotandline.blog.hu/2015/11/30/europai_animaciokat_dijaztak_a_13_anilogue-on)
+- **AudioKit Pro** - [detune](https://audiokitpro.com/detune-play-music-with-your-face/)
 
 ### Publications:
 - [**Behind The Scenes of the Worlds Best XR Designers**](https://medium.muz.li/behind-the-scenes-of-the-worlds-best-xr-designers-42a9bbc9b70d)
