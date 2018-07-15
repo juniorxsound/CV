@@ -29,12 +29,12 @@ Based in NYC, I am a director, developer, artist working at the intersection of 
 
 I started my career as a sound designer and musician. After working in audio post-production for a few years I attended Tel Aviv University film school and started coding, designing and releasing interactive storytelling driven experiences.
 
-Upon graduation, I co-founded [Phenomena Labs](http://phenomenalabs.com) an award-winning visual effect and interaction design studio. I worked as a creative and technical director designing, developing and executing interactive experiences. I am a graduate of Tisch School of the Arts, New York Univesrity. Currently, I am a Creative Technologist at Vimeo.
+Upon graduation, I co-founded [Phenomena Labs](http://phenomenalabs.com) an award-winning visual effect and interaction design studio. I worked as a creative and technical director designing, developing and executing interactive experiences. I am a graduate of Tisch School of the Arts, New York Univesrity. Currently, I am a Creative Technologist at [Vimeo](https://vimeo.com) and Co-Founder at [Volume](https://volume.gl).
 
 
 
 ### Things to know about me:
-I am an advanced coffee drinker, cat aficionado, hobbyist musician. I am passionate about cinematography and open source software.
+I am an advanced coffee drinker, cat aficionado, hobbyist musician. I am passionate about cinematography and [open source software](#open-source).
 
 ---
 
