@@ -202,6 +202,7 @@ Presented [Sound Objects](http://orfleisher.com/portfolio-item/sound-objects/), 
 - **VRFocus** - [Volume: Inside Pulp Fiction](https://www.vrfocus.com/2018/01/reconstruct-your-favourite-movie-in-ar/)
 - **Android Headlines** - [Volume: Inside Pulp Fiction](https://www.androidheadlines.com/2018/01/volume-ai-program-puts-2d-objects-3d-spaces.html)
 - **India Times** - [Volume: Inside Pulp Fiction](https://www.indiatimes.com/technology/apps/bring-pulp-fiction-s-dance-scene-to-your-living-room-in-3d-using-this-innovative-ai-based-app-340893.html)
+- **BestVR** - [Volume: Inside Pulp Fiction](http://bestvr.tech/new-ai-tool-teleports-2d-images-3d-situations/)
 - **Wired** - [Death Mask](https://www.wired.it/attualita/tech/2017/12/20/death-mask-realta-morte-previsione/)
 - **UploadVR** - [Death Mask](https://uploadvr.com/arkit-death-mask/)
 - **Next Reality** - [Death Mask](https://next.reality.news/news/ar-experiment-adds-life-clock-anyone-with-face-0181330/)
