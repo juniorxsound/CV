@@ -7,6 +7,7 @@
 1. [Awards, festivals & exhibitions](#awards)
 1. [Press](#press)
 1. [Publications](#publications)
+1. [Open Source](#open-source)
 
 
 
@@ -116,7 +117,6 @@ A presentation and demonstration of [Volume](https://volume.gl) in front of Magn
 During Anilouge Animation Festival I conducted a workshop in Budapest University's Interaction Design department about using MIDI in real-time to drive animations and visual effects in WebGL.
 
 ---
-
 
 ### Skills:
 
@@ -236,3 +236,23 @@ Presented [Sound Objects](http://orfleisher.com/portfolio-item/sound-objects/), 
 - [**Code that turns into art: What is creative coding?**](https://www.geektime.co.il/what-is-creative-coding/)
 - [**Value precption in immersive art**](https://medium.com/@camillamarcal/value-perception-in-multissensorial-art-experiences-90a721b21f6b?email=fleisher.or%40gmail.com&g-recaptcha-response=03AJpayVFbTUx0I_WB55GNs5DnVNaWEGTX4hMXgLm4Mo9aHeBxoqwSTy_8H5eSOsyESTim3OGnraC0hCJAVPb3yOEiexyq9_u9ba3WM6-1MSSgXnEdC-_tSuFUtxk4zkXsYAlleIkKfklRa_T986RH2xOHVFKmkVBZRFFbT5DtfuwJvF1C2nEzsV97nbPeis0MjQRLwEs2RXTOiNB5WPvTabgFR4cpQcgyhaGeepLR9Cwb-nGsZuRoZZXn0wDMjnr49hD-v11o0fasL-rFWeNxgp9AL_CyC8JUVLs659aDQcudvwnk913C6WhE1yCfomt-SgoEXfMS3K5ZUJ2a1PNgaoFSDoz_EsPRjnhLjO5OXKdrSPd9uzN5QIXC6nuPfauNE1j1hZL3slz3QvbNSwlp59C_PlskTQmUtFS_fVOfjd7X_aj-YWZQfnykLSxrtFJ9ETSyBAdXaJcL)
 - [**UXPin - Web Design Book of Trends for 2017 (Page 63)**](https://issuu.com/hminhnhut/docs/uxpin_web_design_book_of_trends_201)
+
+---
+
+### Open Source:
+
+- **[DepthKit.js](https://github.com/juniorxsound/DepthKit.js)** - A plugin for rendering DepthKit volumteric video using Three.js in WebGL.
+
+- **[DepthKit for A-Frame](https://github.com/juniorxsound/DepthKit-A-Frame)** - An A-Frame component for rendering DepthKit volumetric videos in WebVR. The A-Frame component wraps DepthKit.js which is a small library that provides the same functionality for Three.js projects.
+
+- **[ReTouch](https://github.com/juniorxsound/ReTouch)** - ReTouch is an OpenGL application that enables editing and retouching of images using depth-maps in 2.5D.
+
+- **[Inside Pulp Fiction](https://github.com/Volume-GL/Pulp-Fiction-ARKit)** - An experiment using Volume to reconstruct Pulp Fiction's dance scene in Augmented Reality.
+
+- **[THREE.Kinectron](https://github.com/kinectron/Three-Kinectron)** - A Three.js plugin for rendering Kinectron feeds.
+
+- **[THREE.Multiplayer](https://github.com/juniorxsound/THREE.Multiplayer)** - My boilerplate Node.js server and client setup for Three.js multiplayer projects using Socket.io.
+
+- **[Awesome Volumetric Filmmaking](https://github.com/SimileSystems/awesome-volumetric-filmmaking)** - A curated resource for all things pertaining to volumetric filmmaking.
+
+- **[Threaded Depth Cleaner](https://github.com/juniorxsound/ThreadedDepthCleaner)** - Threaded depth-map cleaning and inpainting using OpenCV.
