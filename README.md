@@ -148,7 +148,8 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Communication Arts - Webpicks** - *Livyatanim: MYTH*
 - **DesignAwards.Asia - Design of the Day** - *Livyatanim: MYTH*
 - **Awwwards – Honorable Mention** - *Tzina*
-- **CSS Design Awards - Special Kodus** - *Tzina*
+- **CSS Design Awards - Special Kodus** - *[Tzina](https://docs.wixstatic.com/ugd/ca134c_00b9f17dfb014a71ad0a1fb62b619097.pdf)*
+- **CSS Winner** - *[Tzina](https://docs.wixstatic.com/ugd/ca134c_2c4f59c4ec2a4b47be27e635ab09d68c.pdf)*
 - **CSS Awards - Site of the Day** - 1948
 - **Awwwards - Honorable Mention** - 1948
 - **CSS Design Awards - Audience Award for Best Innovation** - 1948
@@ -165,6 +166,10 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **IDFA DocLab** - [Tzina](https://www.doclab.org/2016/tzina-symphony-of-longing/)
 - **ACM SIGGRAPH - Immersive Expressions** - [Tzina](https://immersive-expressions.siggraph.org)
 - ** Seattle Transmedia** - [Tzina](http://trueindependent.org/2017-program/)
+- **DocAviv** - [Tzina](http://www.docaviv.co.il/2017-en/films/tzina-symphony-of-longing/)
+- **Toronto WebFest** - [Tzina](https://www.towebfest.com/portfolio/tzina-symphony-of-longing)
+- **Paris Play Online** - Tzina
+- **Experience, Brussels VR Film Festival** - Tzina
 - **SXSW - The Future of Music Artwork is Gamified** - [Livyatanim: MYTH](https://schedule.sxsw.com/2017/events/PP59988)
 - **GDC - Mozilla VR booth** - Livyatanim: MYTH
 - **Seattle Transmedia** - [Livyatanim: MYTH](http://trueindependent.org/stiff/archives/2016-program/)
@@ -219,6 +224,8 @@ Presented [Sound Objects](http://orfleisher.com/portfolio-item/sound-objects/), 
 - **Creators Project** - [Tzina](https://creators.vice.com/en_us/article/mg44g4/symphony-of-longing-interactive-vr-doc-tel-aviv)
 - **Ha'aretz** - [Tzina](https://www.haaretz.co.il/gallery/cinema/.premium-1.4083991)
 - **Calcalist** - [Tzina](https://www.calcalist.co.il/consumer/articles/0,7340,L-3693396,00.html)
+- **prosthetic knowledge** - [Tzina](http://prostheticknowledge.tumblr.com/post/158715900671/tzina-symphony-of-longing-webvr-documentary-by)
+- **Channel 1** - [Tzina](https://www.youtube.com/watch?v=lQYHgwWs1ro)
 - **Dot And Line** - [Judging at Anilouge 2015](http://dotandline.blog.hu/2015/11/30/europai_animaciokat_dijaztak_a_13_anilogue-on)
 - **AudioKit Pro** - [detune](https://audiokitpro.com/detune-play-music-with-your-face/)
 
