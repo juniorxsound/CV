@@ -162,6 +162,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **ITP & Google XStory rersearch grant**
 
 ### Festivals:
+- **SIGGRAPH 2018 - Posters** - [Volume](https://s2018.siggraph.org/conference/conference-overview/posters/production/?sess=sess356)
 - **Cannes Festival - NEXT** - [Tzina](http://www.marchedufilm.com/en/global-events)
 - **IDFA DocLab** - [Tzina](https://www.doclab.org/2016/tzina-symphony-of-longing/)
 - **ACM SIGGRAPH - Immersive Expressions** - [Tzina](https://immersive-expressions.siggraph.org)
