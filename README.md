@@ -198,6 +198,7 @@ Presented [Sound Objects](http://orfleisher.com/portfolio-item/sound-objects/), 
 - **The Next Web** - [Volume: Inside Pulp Fiction](https://thenextweb.com/artificial-intelligence/2018/01/22/ai-rips-objects-from-video-and-reimagines-them-in-3d-ar/)
 - **Vice Motherboard** - [Volume: Inside Pulp Fiction](https://motherboard.vice.com/en_us/article/gywamy/cue-up-the-pulp-fiction-dance-scene-this-app-3d-projects-2d-movies-in-your-living-room)
 - **Mashable** - [Volume: Inside Pulp Fiction](http://mashable.france24.com/tech-business/20180130-films-volume-realite-augmentee-cinema-technologie)
+- **Vice** - [Volume: Inside Pulp Fiction](http://www.vice.cn/read/vice-late-morning-brief-report-20180131)
 - **UploadVR** - [Volume: Inside Pulp Fiction](https://uploadvr.com/ar-app-brings-pulp-fiction-characters-living-room/)
 - **prosthetic knowledge** - [Volume: Inside Pulp Fiction](http://prostheticknowledge.tumblr.com/post/170014746561/volume-in-development-project-from-or-fleisher)
 - **VRFocus** - [Volume: Inside Pulp Fiction](https://www.vrfocus.com/2018/01/reconstruct-your-favourite-movie-in-ar/)
