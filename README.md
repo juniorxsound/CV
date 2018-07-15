@@ -166,7 +166,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **Cannes Festival - NEXT** - [Tzina](http://www.marchedufilm.com/en/global-events)
 - **IDFA DocLab** - [Tzina](https://www.doclab.org/2016/tzina-symphony-of-longing/)
 - **ACM SIGGRAPH - Immersive Expressions** - [Tzina](https://immersive-expressions.siggraph.org)
-- ** Seattle Transmedia** - [Tzina](http://trueindependent.org/2017-program/)
+- **Seattle Transmedia** - [Tzina](http://trueindependent.org/2017-program/)
 - **DocAviv** - [Tzina](http://www.docaviv.co.il/2017-en/films/tzina-symphony-of-longing/)
 - **Toronto WebFest** - [Tzina](https://www.towebfest.com/portfolio/tzina-symphony-of-longing)
 - **Paris Play Online** - Tzina
