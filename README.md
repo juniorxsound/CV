@@ -180,7 +180,7 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **[Uncanny](http://www.dmh.org.il/pages/default.aspx?pageId=858&catId=5)** - Design Museum Holon, 2018  
 Developed an openFrameworks MIDI controlled music installation [toolstools.tools](http://toolstools.tools) with Tal Baltuch
 - **[Liminal Instruments](http://whiteboxnyc.org/event/opening-reception-liminal-instruments-panel-discussion/)** - Whitebox Gallery, NYC, 2018  
-Presented [Sound Objects](http://orfleisher.com/portfolio-item/sound-objects/), a virtual reality music composition application developed in collabration with Scott Reitherman
+Presented [Sound Objects](http://orfleisher.com/portfolio-item/sound-objects/), a virtual reality music composition application developed in collabration with Scott Reitherman - [Eventribe](https://www.eventbrite.com/e/liminal-instruments-exhibition-opening-tickets-47690352127#)
 
 ---
 ### Press:
