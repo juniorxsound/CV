@@ -64,7 +64,7 @@ I am an advanced coffee drinker, cat aficionado, hobbyist musician. I am passion
 
 Professional portfolio: [orfleisher.com](http://orfleisher.com)
 
-- **Senior Creative Technologist** - *Vimeo* (2018-Current)
+- **Principle Creative Technologist** - *Vimeo* (2018-Current)
 
 - **VR Research Fellow** - *Viacom* (2017)
   - Designed and developed a web based Virtual Reality narrative experience currently in submission to festivals.
