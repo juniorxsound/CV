@@ -89,6 +89,10 @@ Professional portfolio: [orfleisher.com](http://orfleisher.com)
 ---
 
 ### Workshops & talks:
+
+-  **Volumetric Accessibility with Vimeo** - *Volumetric Filmmaking Meetup* (2018)  
+[This talk](https://vimeo.com/280815263) (2:08:40) by Casey Pugh, head of Creator Labs at Vimeo, presents the work we have been doing in volumetric video distribution and live streaming.
+
 - **Making music with social data** - *ITP Camp, New York University* (2018)
 [This workshop](https://itp.nyu.edu/camp2018/session/81) was focused on creating generative music with Twitter data (Twitter API) using Node.js, Express and Web Audio API (Tone.js)
 
