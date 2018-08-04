@@ -147,9 +147,10 @@ During Anilouge Animation Festival I conducted a workshop in Budapest University
 - **UrbamMediaMakers Best Interactive Award** - *Livyatanim: MYTH*
 - **FWA - Website of the Day** - *Livyatanim: MYTH*
 - **CSS Winner - Site of the Day** - *Livyatanim: MYTH*
-- **CSS Awards - Website of the Day** - *Livyatanim: MYTH*
-- **Awwwards – Honorable Mention** - *Livyatanim: MYTH*
+- **CSS Awards - Website of the Day** - [*Livyatanim: MYTH*](https://www.cssawards.net/website/livyatanim-myth/)
+- **Awwwards – Honorable Mention** - [*Livyatanim: MYTH*](https://www.awwwards.com/sites/livyatanim-myth)
 - **Communication Arts - Webpicks** - *Livyatanim: MYTH*
+- **CSS Design Awards - Special Kodus** - [*Livyatanim: MYTH*](https://www.cssdesignawards.com/sites/livyatanim-myth/27440/)
 - **DesignAwards.Asia - Design of the Day** - *Livyatanim: MYTH*
 - **Awwwards – Honorable Mention** - *Tzina*
 - **CSS Design Awards - Special Kodus** - *[Tzina](https://docs.wixstatic.com/ugd/ca134c_00b9f17dfb014a71ad0a1fb62b619097.pdf)*
