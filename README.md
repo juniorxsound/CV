@@ -236,6 +236,7 @@ Presented [Sound Objects](http://orfleisher.com/portfolio-item/sound-objects/), 
 - **AudioKit Pro** - [detune](https://audiokitpro.com/detune-play-music-with-your-face/)
 
 ### Publications:
+- [**Volume: 3D Reconstruction of History for Immersive Platforms - SIGGRAPH 2018**](https://dl.acm.org/citation.cfm?id=3230791&picked=formats)
 - [**Behind The Scenes of the Worlds Best XR Designers**](https://medium.muz.li/behind-the-scenes-of-the-worlds-best-xr-designers-42a9bbc9b70d)
 - [**Meet Or Fleisher, A Celebrated WebVR Designer**](https://www.vrroom.buzz/vr-news/people/meet-or-fleisher-celebrated-webvr-designer)
 - [**Code that turns into art: What is creative coding?**](https://www.geektime.co.il/what-is-creative-coding/)
