@@ -21,7 +21,7 @@
 
 **Mail:** [contact@orfleisher.com](mailto:contact@orfleisher.com)
 
-[Github](https://github.com/juniorxsound) | [Twitter](https://twitter.com/juniorxsound) | [YouTube](https://www.youtube.com/user/JuniorxSound/) | [Vimeo](http://vimeo.com/orfleisher) | [LinkedIn](https://www.linkedin.com/in/orfleisher/)
+[Github](https://github.com/juniorxsound) | [Twitter](https://twitter.com/juniorxsound) | [YouTube](https://www.youtube.com/user/JuniorxSound/) | [Vimeo](http://vimeo.com/orfleisher) | [LinkedIn](https://www.linkedin.com/in/orfleisher/) | [Google Scholar](https://scholar.google.com/citations?user=FA-Fs20AAAAJ&hl=en&oi=ao)
 
 ---
 ### Short bio:
